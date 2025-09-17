@@ -36,7 +36,7 @@ export default function RootLayout({ children }) {
                 priority
               />
               <Link href="/" className="text-2xl font-black">
-                Lama Shop
+                Fab Dev Shop
               </Link>
             </div>
             <div className="flex items-center gap-6">
